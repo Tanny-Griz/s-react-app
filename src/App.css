@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+.App-link {
+  color: #61dafb;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+main {
+  padding: 50px 20px;
+  color: #474747;
+}
+.box {
+  border: 1px solid #c0c0c0;
+  padding: 20px 10px;
+  margin-bottom: 10px;
+}
+.box label {
+  padding: 5px;
+}
+.box input {
+  margin-right: 15px;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.nav ul {
+  display: flex;
+  justify-content: center;
+}
+.nav ul li {
+  padding: 8px 15px;
+  background-color: rgb(240, 252, 255);
+  margin-right: 10px;
+}
+.holder-dnd {
+  padding: 20px;
+  border: 1px solid #cea70c;
+}
+
+.card {
+  padding: 5px 15px;
+  background-color: #F1C40F;
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.card:hover {
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.card:active {
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
